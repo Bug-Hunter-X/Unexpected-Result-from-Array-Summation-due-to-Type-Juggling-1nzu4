@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP bug caused by loose typing and type juggling. The `calculateSum` function attempts to sum an array of numbers but produces an incorrect result due to an unexpected string element. The solution involves type checking and handling to ensure the function accurately calculates the sum.
